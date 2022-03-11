@@ -54,5 +54,9 @@ export const data = [
     {
         'posicion': 14,
         'img': 'https://i.ibb.co/BHM8KW2/c640510d-79fd-423b-9d36-9cf274a1b848.jpg',
-    }
+    },
+    {
+        'posicion': 15,
+        'img': 'https://i.ibb.co/gVLc8nk/Captura-Ahhh.png',
+    },
 ]
